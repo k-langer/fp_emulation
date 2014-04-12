@@ -1,0 +1,4 @@
+compile:
+make 
+
+Do some floating point math in fixed point. Inspired by studying for an HPC exam. 
